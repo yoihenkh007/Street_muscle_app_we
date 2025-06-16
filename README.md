@@ -8,6 +8,8 @@
     ├── exercise_page.html
     ├── profile_home.html
 ```
+#sample site link
+#https://yoihenkh007.github.io/Street_muscle_app_we/
 
 ### Example HTML Files
 
